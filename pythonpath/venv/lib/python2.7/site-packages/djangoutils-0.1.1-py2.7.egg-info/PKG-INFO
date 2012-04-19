@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: djangoutils
+Version: 0.1.1
+Summary: Miscellaneous app-independent django utilities
+Home-page: https://bitbucket.org/amagee/djangoutils
+Author: Andrew Magee
+Author-email: amagee@gmail.com
+License: GPL
+Description: Miscellaneous app-independent django utilities
+Keywords: django utils
+Platform: UNKNOWN
